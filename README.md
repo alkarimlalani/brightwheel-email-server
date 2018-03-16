@@ -1,7 +1,7 @@
-﻿# Brightwheel Email Server
+﻿# Email Server
 
 ## How to install the application
-1. Clone the repo from: https://github.com/alkarimlalani/brightwheel-email-server
+1. Clone the repo from: https://github.com/alkarimlalani/email-server
 2. `cd` into the repo
 3. Run `bundle install`
 
@@ -13,7 +13,7 @@
 ### Guiding Principles
 As I wrote the app, the guiding principles were:
 - Build a service thats super simple thats easy to maintain and extend - this will allow us to move fast in the future and for anyone to work on the service
-- Build for the user - since this is an internal service, I sought to build it for the person consuming it, i.e. developers on the Brightwheel team
+- Build for the user - since this is an internal service, I sought to build it for the person consuming it, i.e. developers on the team
 
 ### Language + Framework
 - I used Ruby since that's what I'm most productive in
